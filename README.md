@@ -10,6 +10,6 @@ This signup page for individual project was giving to us as an assignment from A
 
 To see this project, click on this link:
 
-https://657ed604201fdd5d1e6822e7--kaleidoscopic-babka-a96490.netlify.app/
+https://signup-individual-form.netlify.app/
 
 
